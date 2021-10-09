@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      Weather App 2021
+      <h1>Weather App 2021</h1>
       <footer>This website is created by RBK</footer>
     </div>
   );
