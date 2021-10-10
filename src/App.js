@@ -8,7 +8,7 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="Berlin" />
         <br />
-        <footer>This website is created by RBK</footer>
+        <footer>This website is created by RBK for SheCodes exercice</footer>
       </div>
     </div>
   );
