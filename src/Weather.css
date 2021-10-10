@@ -20,3 +20,9 @@ h1 {
 form {
   padding-left: 30px;
 }
+.WeatherTemperature .Temperature {
+  font-size: 50px;
+}
+.WeatherTemperature .Metric {
+  font-size: 30px;
+}
