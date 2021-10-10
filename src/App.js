@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <Weather />
-
+        <br />
         <footer>This website is created by RBK</footer>
       </div>
     </div>
