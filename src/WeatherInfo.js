@@ -17,7 +17,7 @@ export default function WeatherInfo(props) {
             <li>Mostly Cloudy</li> <br />
             <div className="row">
               <div className="col-2">
-                <WeatherIcon code={props.data.iconUrl[0].icon} />
+                <WeatherIcon code={props.data.iconUrl[0].icon} size="70"/>
               </div>
               <div className="col-4">
                 <WeatherTemperature celsius={props.data.temperature} />
